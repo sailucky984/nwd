@@ -1,1 +1,1 @@
-# nwd asterod
+# nwd 32
